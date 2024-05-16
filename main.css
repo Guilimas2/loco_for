@@ -1,0 +1,39 @@
+select {
+    width: 302px; /* largura do select */
+    height: 205px; /* altura do select */
+    background: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+}
+input{
+    margin-top: 10px; /* margem superior para o botão */
+    padding: 5px 10px; /* preenchimento interno do botão */
+    background-color: #0011ff; /* cor de fundo do botão */
+    color: rgb(0, 0, 0); /* cor do texto do botão */
+    border: none; /* remova a borda do botão */
+    cursor: pointer; /* cursor do mouse */
+    border-radius: 5px; /* borda arredondada do botão */
+}
+  
+input:hover {
+    background-color: #ffffff; /* cor de fundo do botão ao passar o mouse */
+}
+  
+input:focus {
+    outline: none; /* remova o contorno do botão ao focar */
+}
+label {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+p {
+    text-align: center;   
+}
+#tipoMusica {
+    margin-top: 60px;
+}
+body {
+    background-image: url('rima.png');
+    background-size: 145%;
+    background-repeat: no-repeat;
+    background-position: center; 
+}

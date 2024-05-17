@@ -8,7 +8,7 @@ input{
     margin-top: 10px; /* margem superior para o botão */
     padding: 5px 10px; /* preenchimento interno do botão */
     background-color: #0011ff; /* cor de fundo do botão */
-    color: rgb(0, 0, 0); /* cor do texto do botão */
+    color: rgb(255, 254, 254); /* cor do texto do botão */
     border: none; /* remova a borda do botão */
     cursor: pointer; /* cursor do mouse */
     border-radius: 5px; /* borda arredondada do botão */
@@ -23,7 +23,7 @@ input:focus {
 }
 label {
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 p {
     text-align: center;   

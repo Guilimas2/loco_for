@@ -17,7 +17,7 @@ Nesse trabalho eu tive que implementar o codigo com mais 3 musica do nosso gosto
  * Javascript
  * GitHub
 
-# Pessoas que ajudou no trabalho 
+# Pessoas que me ajudou no trabalho 
 * [Maria yanagui]( https://github.com/mariayanagui)
 
 # Autor
